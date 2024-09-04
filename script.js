@@ -6,3 +6,7 @@ function print() {
   console.log("Add branch");
   
 }
+function sub(n,m) {
+  console.log(n-m);
+  
+}
